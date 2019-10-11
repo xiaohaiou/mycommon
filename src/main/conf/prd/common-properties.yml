@@ -1,0 +1,16 @@
+commom:
+  uploadTempDir: /data/postmall/tomcat/temp
+  uploadFileToDFSUrl: //static.ulecdn.com
+  uploadFileUrl: http://dfsupload-service.http.prd.uledns.com
+  globalStaticServer1: //i0.ulecdn.com
+  globalStaticServer2: //i1.ulecdn.com
+  globalStaticServer3: //i2.ulecdn.com
+  searchDistrIpPort: cloudSearch.prd.uledns.com:9020
+  csDomainName: //cs.ule.com
+  whDomainName: wholesale-static.ule.com
+  env: prd
+
+zipkin-base-url: http://localhost:9411
+consul-host: client.consul.prd.uledns.com
+consul-port: 8500
+spring-boot-admin-base-url: http://cs.ule.com/fxCsMarketing/admin/
